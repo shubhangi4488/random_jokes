@@ -1,0 +1,15 @@
+
+
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color:#FBF3FB;
+    height:79px;
+    width:100%;
+    background-image: linear-gradient(to right, #8FB0E4, #506AAE);
+    box-shadow: 0 1.4rem 8rem rgba(0,0,0,0.2);
+
+}
