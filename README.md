@@ -12,5 +12,5 @@
     <li>HTML5</li>
     <li>CSS3</li>
     <li>React.js</li>
-    <li>Cloudinary</li>
+    
 </ul>
